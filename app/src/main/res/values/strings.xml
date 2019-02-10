@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NearbyTest</string>
+    <string name="error_missing_permissions">We need permission to make this work for you</string>
+</resources>
